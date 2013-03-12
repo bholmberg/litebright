@@ -1,0 +1,9 @@
+{
+    "name": "lbc",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": ">= 0.0.0",
+        "moment": ">= 0.0.0"
+
+    }
+}
